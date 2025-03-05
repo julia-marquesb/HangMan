@@ -47,8 +47,8 @@ This is a simple command-line Hangman game implemented in Java. The game selects
 - `Words.java` - Contains a list of words and selects a random word for each game.
 
 ## Contributors
+- Julia Marques Batista
 - Juliana Pivaro
-- Juliana Marques
 - Deepika
 - Rashmeet Kaur
 
